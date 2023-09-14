@@ -1,0 +1,1 @@
+export const summaryExample = "O Javascript é uma línguagem de programação voltada para o frontend e backend."
